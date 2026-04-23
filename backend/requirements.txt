@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+motor
+pymongo
+python-dotenv
+passlib[bcrypt]
+python-jose[cryptography]
+httpx
+aiohttp
+numpy
+pandas
+scikit-learn
+PyJWT>=2.0.0
